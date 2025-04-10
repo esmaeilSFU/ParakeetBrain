@@ -15,7 +15,7 @@ namespace ParakeetBrain
         //Return a short string describing the purpose of this GHA library.
         public override string Description => "";
 
-        public override Guid Id => new Guid("45762455-0076-473f-bfbf-ea786cbf3c52");
+        public override Guid Id => new Guid("78fa8d4f-158b-4f53-991d-6f1ef8ff881b");
 
         //Return a string identifying you or your company.
         public override string AuthorName => "";
